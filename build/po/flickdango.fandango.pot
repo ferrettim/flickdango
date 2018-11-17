@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Flickdango\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-17 06:06+0000\n"
+"POT-Creation-Date: 2018-11-17 06:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../qml/AboutPage.qml:8
-msgid "About Flickdango 1.0"
+msgid "About Flickdango 1.2"
 msgstr ""
 
 #: ../qml/AboutPage.qml:9
