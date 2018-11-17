@@ -5,8 +5,8 @@ import Ubuntu.Components.Popups 1.3
 Dialog {
             id: aboutDialog
             visible: false
-            title: i18n.tr("About Flickdango 1.2")
-            text: i18n.tr("Flickdango is an unofficial Fandango app for Ubuntu Touch which lets users see movie showtimes near them as well as buy tickets for upcoming films.")
+            title: i18n.tr("About Flickdango 1.3")
+            text: i18n.tr("Flickdango is an unofficial Fandango app for Ubuntu Touch.")
 
             Text {
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
