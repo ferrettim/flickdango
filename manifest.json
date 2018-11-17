@@ -1,0 +1,15 @@
+{
+    "name": "flickdango.myq",
+    "description": "Flickdango is an unofficial Fandango app for Ubuntu Touch which lets users see movie showtimes near them as well as buy tickets for upcoming films.",
+    "architecture": "armhf",
+    "title": "Flickdango",
+    "hooks": {
+        "tweet": {
+            "apparmor": "flickdango.apparmor",
+            "desktop":  "flickdango.desktop"
+        }
+    },
+    "version": "1.0",
+    "maintainer": "Martin Ferretti <ferrettimartin@gmail.com>",
+    "framework" : "ubuntu-sdk-16.04"
+}
