@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+a3ac00e7ae9d6e763f89649bb96fd6e4 CMakeFiles/flickdango.desktop
+caa2c7871030fc1996d8125d049c732b po/CMakeFiles/flickdango.fandango.pot
+2ca484afc4c052ee426073bf78983acc po/CMakeFiles/pofiles_1
+8babac8d730ab4a3fec17cb09344e465 po/es.gmo
