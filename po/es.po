@@ -94,8 +94,8 @@ msgid "Cancel"
 msgstr "Cancelar"
 
 #: ../qml/AboutPage.qml:8
-msgid "About Flickdango v1.0"
-msgstr "Acerca de Flickdango v1.0"
+msgid "About Flickdango v1.2"
+msgstr "Acerca de Flickdango v1.2"
 
 #: ../qml/AboutPage.qml:9
 msgid "Flickdango is an unofficial Fandango app for Ubuntu Touch which lets users see movie showtimes near them as well as buy tickets for upcoming films."
