@@ -1,0 +1,125 @@
+SOME DESCRIPTIVE TITLE.
+Copyright (C) YEAR Martin Ferretti
+This file is distributed under the same license as the Flickdango package.
+FIRST AUTHOR EMAIL@ADDRESS, YEAR.
+
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Flickdango\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-17 06:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME EMAIL@ADDRESS\n"
+"Language-Team: NORWEGIAN LL@li.org\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/AboutPage.qml:8
+msgid "About Flickdango 1.3"
+msgstr "Om Flickdango 1.3"
+
+#: ../qml/AboutPage.qml:9
+msgid ""
+"Flickdango is an unofficial Fandango app for Ubuntu Touch."
+msgstr ""
+"Flickdango er en uoffisiell Fandango-app for Ubuntu Touch."
+
+#: ../qml/AboutPage.qml:13
+msgid ""
+"Copyright (c) 2018
+by Martin Ferretti
+
+E-Mail: <a href="
+""mailto://ferrettimartin@gmail.com">ferrettimartin@gmail.com"
+msgstr ""
+"Copyright (c) 2018
+av Martin Ferretti
+
+E-post: <a href="
+""mailto://ferrettimartin@gmail.com">ferrettimartin@gmail.com"
+
+#: ../qml/AboutPage.qml:18
+msgid "Flickdango is not affiliated with Fandango."
+msgstr "Flickdango er ikke tilknyttet Fandango."
+
+#: ../qml/AboutPage.qml:22
+msgid "OK"
+msgstr "OK"
+
+#: ../qml/actions/Copy.qml:22
+msgid "Copy"
+msgstr "Kopier"
+
+#: ../qml/actions/CopyImage.qml:22
+msgid "Copy image"
+msgstr "Kopier bilde"
+
+#: ../qml/actions/CopyLink.qml:22
+msgid "Copy link"
+msgstr "Kopier lenke"
+
+#: ../qml/actions/SaveImage.qml:22
+msgid "Save image"
+msgstr "Lagre bilde"
+
+#: ../qml/actions/ShareLink.qml:22
+msgid "Share…"
+msgstr "Del…"
+
+#: ../qml/ContentDownloadDialog.qml:63
+msgid ""
+"Choose an application to open this file or add it to the downloads folder."
+msgstr ""
+"Velg et program for å åpne denne filen eller legg den til nedlastingsmappen."
+
+#: ../qml/ContentDownloadDialog.qml:69
+msgid "Choose an application"
+msgstr "Velg en applikasjon"
+
+#: ../qml/ContentDownloadDialog.qml:82
+msgid "Download"
+msgstr "Last ned"
+
+#: ../qml/ContentDownloadDialog.qml:94
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: ../qml/MediaAccessDialog.qml:31
+msgid "Permission"
+msgstr "Tillatelse"
+
+#: ../qml/MediaAccessDialog.qml:38
+msgid "Allow this domain to access your camera and microphone?"
+msgstr "Tillat at dette domenet får tilgang til kameraet og mikrofonen din?"
+
+#: ../qml/MediaAccessDialog.qml:39
+msgid "Allow this domain to access your camera?"
+msgstr "Tillat at dette domenet får tilgang til kameraet ditt?"
+
+#: ../qml/MediaAccessDialog.qml:40
+msgid "Allow this domain to access your microphone?"
+msgstr "Tillat at dette domenet får tilgang til mikrofonen din?"
+
+#. TRANSLATORS: %1 is the URL of the site requesting access to camera and/or microphone and %2 is the URL of the site that embeds it
+#: ../qml/MediaAccessDialog.qml:48
+msgid "%1 (embedded in %2)"
+msgstr "%1 (innebygd i %2)"
+
+#: ../qml/MediaAccessDialog.qml:72
+msgid "Yes"
+msgstr "Ja"
+
+#: ../qml/MediaAccessDialog.qml:83
+msgid "No"
+msgstr "Nei"
+
+#: ../qml/SadPage.qml:27
+msgid "Oops, something went wrong."
+msgstr "Oops, noe gikk galt"
+
+#: ../qml/SadPage.qml:33
+msgid "Reload"
+msgstr "Last på nytt"
